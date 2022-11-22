@@ -101,11 +101,11 @@ benefit-cost {
     color: #ffffff;
 }
 
-benefit-lead h3, benefit-brand h3, benefit-cost {
+benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-/*
+
 benefit-brand h3, {
     margin-bottom: 10px;
     text-align: center;
@@ -115,7 +115,7 @@ benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-*/
+
 benefit-lead img, benefit-brand img, benefit-cost img {
     display: block;
     margin: 10px auto;
